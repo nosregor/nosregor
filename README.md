@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrew Rogerson (Werdna Nosregor) and I'm a Fullstack developer. 🔭 I’m currently working on clone of Wunderlist (called Wonderlist) as a side project. I am finishing up a BE REST API using node.js, express, typescript and mongo. Next I will implement the FE in react.
+My name is Andrew Rogerson (Werdna Nosregor) and I'm a Fullstack developer. 🔭 I’m currently working on a clone of Wunderlist (called Wonderlist) as a side project. I jsut finished implementing a BE REST API using node.js, express, typescript and mongo. Next I will implement the FE in react.
 <!--
 **nosregor/nosregor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
