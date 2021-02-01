@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ヽ(o＾▽＾o)ノ
 <!--
 **nosregor/nosregor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
